@@ -33,7 +33,6 @@ setup/                 # Scripts for VM setup and orchestration
 
 config.json            # System configuration file
 README.md              # Project documentation
-MP2_Report_G33         # Project Report
 ```
 
 
